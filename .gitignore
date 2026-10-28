@@ -1,0 +1,33 @@
+# ---- 运行时下载内容（不入库）----
+downloads/
+下载目录/
+Hiyuki/
+debug/
+
+# ---- 登录凭证 / Cookie（含敏感会话令牌，公开仓库切勿上传）----
+登录.txt
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.db
+*.sqlite
+
+# ---- 日志 ----
+*.log
+
+# ---- 图片（用户要求：不上传图片）----
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.tiff
+*.tif
+*.ico
+*.svg
+*.heic
